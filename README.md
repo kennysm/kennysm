@@ -13,6 +13,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
 </p>
 
+<h4 align="center">If you want to get in touch, feel free!😉</h4>
 <p align="center">
 <a href="https://www.linkedin.com/in/kennedysm41210b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kennysm" height="40" width="40" /></a>
 <a href="https://instagram.com/kenny_sm" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kennysm" height="40" width="40" /></a>
