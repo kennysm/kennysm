@@ -4,7 +4,7 @@
 
 - 🤔 I’m interested in the world of technology
 - 👀 I’m currently learning JAVASCRIPT and REACT
-- 🔭 I’m currently working at BASF
+- 🔭 Working at BASF
 
 
 <!-- stats card-->
