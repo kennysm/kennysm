@@ -1,4 +1,4 @@
-<h1 align="center">Hi dear , I'm Kennedy Mota</h1>
+<h1 align="center">Hi dear 👋, I'm Kennedy Mota</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kennysm" alt="kennysm"> </p>
 
