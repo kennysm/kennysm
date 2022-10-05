@@ -6,24 +6,6 @@
 - 👀 I’m currently learning JAVASCRIPT and REACT
 - 🔭 Working at BASF
 
-
-<!-- stats card-->
-<div align="center">
-  <a href="https://github.com/kennysm">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kennysm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kennysm&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-  
-  <!-- languages link-->
-<div style="display: inline_block"><br>
-  <p align="center">
-    <img align="center" alt="REACT"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
-    <img align="center" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="JS"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50"          height="50"/>
-  </p>
-  
-</div> 
   
   
 <!-- social media-->
