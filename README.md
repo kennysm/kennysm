@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kennysm" alt="kennysm"> </p>
 
-- 🤔 I’m interested in the world of technology
+- 🤔 Computer science student
 - 👀 I’m currently learning JAVASCRIPT and REACT
 - 🔭 Working at BASF
 
