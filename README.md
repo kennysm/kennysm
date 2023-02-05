@@ -4,7 +4,6 @@
 
 - 🤔 Computer science student
 - 👀 I’m currently learning JAVASCRIPT and REACT
-- 🔭 Working at BASF
 
   
   
