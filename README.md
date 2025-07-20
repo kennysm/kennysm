@@ -2,8 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kennysm" alt="kennysm"> </p>
 
-- 🤔 Computer science student
-- 👀 I’m currently learning JAVASCRIPT and REACT
+- 🤔 Data Analyst
 
   
   
