@@ -32,6 +32,14 @@ Transforming raw data into insights using SQL, modern data stack and analytics e
 </p>
 
 <br>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=kennysm&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kennysm&layout=compact&theme=tokyonight"/>
+</p>
+<br>
 
 <h2 align="center">📊 Data Projects</h2>
 
